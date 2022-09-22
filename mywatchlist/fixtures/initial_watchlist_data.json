@@ -1,0 +1,123 @@
+[
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 1,
+      "fields": {
+        "watched": true,
+        "title": "Bojack Horseman",
+        "rating": 5,
+        "release_date": "2022-09-22",
+        "review": "Bojack Horseman is GOAT!"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 2,
+      "fields": {
+        "watched": true,
+        "title": "Dead Poets Society",
+        "rating": 5,
+        "release_date": "2022-09-22",
+        "review": "Carpe Diem"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 3,
+      "fields": {
+        "watched": true,
+        "title": "Submarine",
+        "rating": 5,
+        "release_date": "2022-09-22",
+        "review": "Haha, literally me"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 4,
+      "fields": {
+        "watched": true,
+        "title": "Pokemon",
+        "rating": 3,
+        "release_date": "2022-09-22",
+        "review": "Zoroark is the best Pokemon"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 5,
+      "fields": {
+        "watched": false,
+        "title": "The Boys",
+        "rating": 4,
+        "release_date": "2022-09-22",
+        "review": "Good Series said my friend"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 6,
+      "fields": {
+        "watched": false,
+        "title": "Forrest Gump",
+        "rating": 4,
+        "release_date": "2022-09-21",
+        "review": "Lucky Boy"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 7,
+      "fields": {
+        "watched": true,
+        "title": "Whiplash",
+        "rating": 5,
+        "release_date": "2022-09-21",
+        "review": "So inspiring"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 8,
+      "fields": {
+        "watched": false,
+        "title": "Better Call Saul",
+        "rating": 5,
+        "release_date": "2022-09-20",
+        "review": "This series is the best said my friend"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 9,
+      "fields": {
+        "watched": true,
+        "title": "JJBA",
+        "rating": 5,
+        "release_date": "2022-09-20",
+        "review": "ORA ORA ORA"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 10,
+      "fields": {
+        "watched": false,
+        "title": "Gintama",
+        "rating": 5,
+        "release_date": "2022-09-13",
+        "review": "It's funny"
+      }
+    },
+    {
+      "model": "mywatchlist.mywatchlist",
+      "pk": 11,
+      "fields": {
+        "watched": true,
+        "title": "Violet Evergarden",
+        "rating": 5,
+        "release_date": "2022-09-22",
+        "review": "Eps 10 hit me hard:("
+      }
+    }
+  ]
