@@ -1,3 +1,5 @@
+link = "https://pbptugas2elang.herokuapp.com/todolist"
+
 Apa kegunaan {% csrf_token %} pada elemen <form>? Apa yang terjadi apabila tidak ada potongan kode tersebut pada elemen <form>?
 untuk menghindari serangan csrf, jika tidak ada potongan kode tersebut maka akan terjadi error.
   
